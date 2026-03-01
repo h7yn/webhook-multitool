@@ -14,12 +14,7 @@ Exit Program: Safely exit the tool.
 
 ## How to use ?
 
-Step 1: Clone the Repository
-Clone this repository to your local machine using Git. If you don't have git install it from https://git-scm.com/ .
--------------------
-git clone https://github.com/yourusername/discord-webhook-multitool.git
-cd discord-webhook-multitool
--------------------
+Step 1: Download repository files and put them in a folder anywhere you want it to be.
 
 Step 2: Install Required Libraries
 Before running the tool, you need to install the necessary Python libraries. This can be done using pip, Python's package installer. Open the folder where you have the files inside in cmd, type the command "pip install -r requirements.txt" and wait for libraries to install.
